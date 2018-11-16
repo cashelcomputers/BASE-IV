@@ -1,5 +1,5 @@
 /* 
- * This file is part of the BASE-4 distribution (website).
+ * This file is part of the BASE-4 distribution (https://github.com/cashelcomputers/BASE-IV).
  * Copyright (c) 2018 Tim Buchanan.
  * 
  * This program is free software: you can redistribute it and/or modify  
